@@ -1,4 +1,4 @@
-// daniel Castro
+// Daniel Castro
 // Danielc9435@csu.fullerton.edu
 // @Goggles41
 // Partners: @Enoki09
